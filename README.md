@@ -1,5 +1,6 @@
 
 # PyTorch GAN for MNIST Image Generation
+![TensorBoard Screenshot](tensorboard-screenshot.png)
 
 This project implements a Generative Adversarial Network (GAN) using the PyTorch deep learning library. The primary goal of this GAN is to learn to generate synthetic images that closely resemble the handwritten digits found in the MNIST dataset.
 
@@ -43,10 +44,3 @@ To run this project, follow these steps:
         %tensorboard --logdir=runs
         ```
     *   This will launch the TensorBoard interface, typically inline within the notebook or as a separate tab, allowing you to view the fake and real images and other potential metrics logged during training. The logs are saved in the `runs` directory created during training.
-
-
-## TensorBoard Screenshot
-
-Here's a screenshot of the TensorBoard output showing the generated images:
-
-![TensorBoard Screenshot](tensorboard-screenshot.png)
