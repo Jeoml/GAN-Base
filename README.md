@@ -44,3 +44,9 @@ To run this project, follow these steps:
         ```
     *   This will launch the TensorBoard interface, typically inline within the notebook or as a separate tab, allowing you to view the fake and real images and other potential metrics logged during training. The logs are saved in the `runs` directory created during training.
 
+
+## TensorBoard Screenshot
+
+Here's a screenshot of the TensorBoard output showing the generated images:
+
+![TensorBoard Screenshot](/content/Screenshot 2025-09-25 211854.png)
