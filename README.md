@@ -49,4 +49,4 @@ To run this project, follow these steps:
 
 Here's a screenshot of the TensorBoard output showing the generated images:
 
-![TensorBoard Screenshot](GAN-Base/tensorboard-screenshot.png)
+![TensorBoard Screenshot](tensorboard-screenshot.png)
