@@ -49,4 +49,4 @@ To run this project, follow these steps:
 
 Here's a screenshot of the TensorBoard output showing the generated images:
 
-![TensorBoard Screenshot](/content/Screenshot 2025-09-25 211854.png)
+![TensorBoard Screenshot](/tensorboard-screenshot.png)
